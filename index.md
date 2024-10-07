@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Helen Ramsay's CV
 ---
-# Isaac Newton
+# Helen Ramsay
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -11,34 +11,19 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
+### Qualifications
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__Bachelor of Science__ _Macquarie University_  2018
+__Master of Public Health__ _University of Melbourne_  2020
 
 
-### Research interests
+### Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__ANZMUSC Executive Officer__ '2021 - present'
+__Project Officer__, _Victorian Department of Health_ '2021'
+__Project Assistant__, _Murdoch Children's Research Institute_ '2020'
+__Graduate Placement__, _Murdoch Children's Research Institute_ '2020'
 
 
 
@@ -64,12 +49,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 
 ## Occupation
 
